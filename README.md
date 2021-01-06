@@ -1,1 +1,1 @@
-# HM-function
+# HM
